@@ -18,6 +18,8 @@
 ### 📁 Data Collection
 
 This project has done up to 50000 epochs with error 0.08 values.Futher, 2200 images were collected among them 1000 images are without mask and 1200 images are with mask.
+* With Mask: 1200
+* Without Mask: 1000
 
 ### 🔑 Prerequisites
 * All the dependencies and required libraries are included in the file [requirements.txt](https://github.com/KrishArul26/Live-Face-Mask-Detection-Using-Faster_rcnn/blob/main/requirements.txt)
