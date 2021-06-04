@@ -6,6 +6,12 @@
 
 <h1 align="center"> Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts like faster-rcnn in order to detect face masks in real-time video streams.</h1>
 
+<p align="left">
+  <img width="500" src="https://user-images.githubusercontent.com/74568334/120845108-a169b300-c570-11eb-830a-817a9c920d8b.gif">
+  <img width="500" src="https://user-images.githubusercontent.com/74568334/120845109-a3cc0d00-c570-11eb-825d-bfa828f7560a.gif">
+</p> 
+
+
 ### 📁 Data Collection
 
 ### In this project, whether a person is wearing a mask or not mask as well as it will show the confidence value of the prediction. Also, this project has done up to 50000 epochs with error 0.08 values.Futher, 2200 images were collected among them 1000 images are without mask and 1200 images are with mask.
