@@ -2,10 +2,6 @@
 
 <h4 align="left"> In this project, whether a person is wearing a mask or not mask as well as it will show the confidence value of the prediction.</h4>
 
-<span style="color: green"> Some green text </span>
-
-<font color="green">In this project, whether a person is wearing a mask or not mask as well as it will show the confidence value of the prediction</font>
-
 <p align="center">
   <img width="300" src="https://user-images.githubusercontent.com/74568334/120844016-1a680b00-c56f-11eb-82f4-540eed511788.jpg">
 </p> 
