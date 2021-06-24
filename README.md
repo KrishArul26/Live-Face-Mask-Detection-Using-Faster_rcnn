@@ -1,6 +1,6 @@
 <h2 align="center"> Live-Face-Mask-Detection-Using-Faster_rcnn</h2>
 
-<h4 align="left">In this project, to detect whether a person is wearing a mask or no mask. In case, a person is not wearing a mask system will give an alert sound with text as well as it will show the confidence value of the prediction.</h4>
+<h4 align="left">In this project, to detect whether a person is wearing a mask or no mask. In case, a person is not wearing a mask system will give an alert sound with text as well as it will show the confidence value of the prediction in live stream.</h4>
 
 <p align="center">
   <img width="300" src="https://user-images.githubusercontent.com/74568334/120844016-1a680b00-c56f-11eb-82f4-540eed511788.jpg">
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 1. Open terminal. Go into the cloned project directory and type the following command:
 
 ```
-python face_mask_detection.py
+python mask_detection_video.py
 
 ```
 ### 🔑 Results 
