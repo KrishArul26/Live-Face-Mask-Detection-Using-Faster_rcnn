@@ -123,6 +123,6 @@ python mask_detection_image.py
 ### 🔑 Results 
 
 <p align="left">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/123304124-d7baa280-d51e-11eb-983c-8945260928e1.jpg">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/123304146-e012dd80-d51e-11eb-9aa1-94b24b78ac59.jpg">
+  <img width="600" src="https://user-images.githubusercontent.com/74568334/123304124-d7baa280-d51e-11eb-983c-8945260928e1.jpg">
+  <img width="250" src="https://user-images.githubusercontent.com/74568334/123304146-e012dd80-d51e-11eb-9aa1-94b24b78ac59.jpg">
 </p> 
