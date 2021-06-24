@@ -135,3 +135,11 @@ python mask_detection_image.py
   <img width="400" src="https://user-images.githubusercontent.com/74568334/123304686-8828a680-d51f-11eb-8084-14f25b735e70.jpg">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/123304690-8a8b0080-d51f-11eb-88f6-19b7997d573d.jpg">
 </p> 
+
+#### Testing-3
+
+<p align="left">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/123307848-43067380-d523-11eb-8978-a8217559b142.jpg">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/123307846-426ddd00-d523-11eb-9af8-233ea4838198.jpg">
+</p> 
+
