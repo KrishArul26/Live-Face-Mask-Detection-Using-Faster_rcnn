@@ -3,7 +3,7 @@
 <h4 align="left">In this project, to detect whether a person is wearing a mask or no mask. In case, a person is not wearing a mask system will give an alert sound with text as well as it will show the confidence value of the prediction in live stream.</h4>
 
 <p align="center">
-  <img width="300" src="(https://user-images.githubusercontent.com/74568334/123329616-4b6ba800-d53d-11eb-98f7-8006730c863c.jpg">
+  <img width="300" src="https://user-images.githubusercontent.com/74568334/123329616-4b6ba800-d53d-11eb-98f7-8006730c863c.jpg">
 </p> 
 
 
