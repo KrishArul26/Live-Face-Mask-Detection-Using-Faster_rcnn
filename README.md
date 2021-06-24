@@ -36,7 +36,10 @@ This project has done up to 50000 epochs with error 0.08 values.Futher, 2200 ima
 
 3. Create a Python 3.6 version of  virtual environment named 'mask' and activate it
 
-* pip install virtualenv
+ ``` 
+pip install virtualenv
+
+ ```
 
 * virtualenv mask
 
