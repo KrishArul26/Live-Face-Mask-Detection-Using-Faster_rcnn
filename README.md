@@ -10,7 +10,7 @@
 <h3 align="center"> <span style="color:green">Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts like faster-rcnn in order to detect face masks in real-time video streams.</span></h3>
 
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/123328085-7228df00-d53b-11eb-9bc0-0700343af177.gif">
+  <img width="800" src="https://user-images.githubusercontent.com/74568334/123328085-7228df00-d53b-11eb-9bc0-0700343af177.gif">
   
 </p> 
 
