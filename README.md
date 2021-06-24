@@ -24,7 +24,7 @@ This project has done up to 50000 epochs with error 0.08 values.Futher, 2200 ima
 ### 🔑 Prerequisites
 * All the dependencies and required libraries are included in the file [requirements.txt](https://github.com/KrishArul26/Live-Face-Mask-Detection-Using-Faster_rcnn/blob/main/requirements.txt)
 
-### 🚀 Installation Live Mak Detection
+### 🚀 Installation For Live Mask Detection
 
 1. Clone the repo
 
@@ -73,3 +73,51 @@ python face_mask_detection.py
 ### 🔑 Results 
 
 * For this mask detection I have used computer vision trained net work which is faster-rcnn
+
+### 🚀 Installation For Mask Detection for images
+
+1. Clone the repo
+
+* git clone https://github.com/KrishArul26/Live-Face-Mask-Detection-Using-Faster_rcnn.git
+
+2. Change your directory to the cloned repo
+
+```
+cd Live-Face-Mask-Detection-Using-Faster_rcnn
+```
+
+3. Create a Python 3.6 version of  virtual environment named 'mask' and activate it
+
+ ``` 
+pip install virtualenv
+
+ ```
+
+* Create virtual environmental
+
+```
+virtualenv mask
+
+```
+* Activate that environmental
+
+```
+mask\Scripts\activate
+
+```
+
+4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
+
+```
+pip install -r requirements.txt
+
+```
+### 💡 Working
+
+1. Open terminal. Go into the cloned project directory and type the following command:
+
+```
+python mask_detection_image.py
+
+```
+### 🔑 Results 
