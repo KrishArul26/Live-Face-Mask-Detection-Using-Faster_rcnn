@@ -11,7 +11,7 @@
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/74568334/123328085-7228df00-d53b-11eb-9bc0-0700343af177.gif">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/123328490-e9f70980-d53b-11eb-8980-d0e0e2ab694f.gif">
+  <img width="450" src="https://user-images.githubusercontent.com/74568334/123328490-e9f70980-d53b-11eb-8980-d0e0e2ab694f.gif">
   
 </p> 
 
