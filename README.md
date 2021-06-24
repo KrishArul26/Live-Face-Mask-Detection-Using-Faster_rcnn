@@ -32,7 +32,9 @@ This project has done up to 50000 epochs with error 0.08 values.Futher, 2200 ima
 
 2. Change your directory to the cloned repo
 
-* cd Live-Face-Mask-Detection-Using-Faster_rcnn
+```
+cd Live-Face-Mask-Detection-Using-Faster_rcnn
+```
 
 3. Create a Python 3.6 version of  virtual environment named 'mask' and activate it
 
@@ -41,20 +43,33 @@ pip install virtualenv
 
  ```
 
-* virtualenv mask
+* Create virtual environmental
 
-* mask\Scripts\activate
+```
+virtualenv mask
+
+```
+* Activate that environmental
+
+```
+mask\Scripts\activate
+
+```
 
 4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
 
-* pip install -r requirements.txt
+```
+pip install -r requirements.txt
 
+```
 ### 💡 Working
 
 1. Open terminal. Go into the cloned project directory and type the following command:
 
-* python face_mask_detection.py
+```
+python face_mask_detection.py
 
+```
 ### 🔑 Results 
 
 * For this mask detection I have used computer vision trained net work which is faster-rcnn
