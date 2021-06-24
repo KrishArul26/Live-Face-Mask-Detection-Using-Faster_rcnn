@@ -139,7 +139,7 @@ python mask_detection_image.py
 #### Testing-3
 
 <p align="left">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/123307848-43067380-d523-11eb-8978-a8217559b142.jpg">
+  <img width="500" src="https://user-images.githubusercontent.com/74568334/123307848-43067380-d523-11eb-8978-a8217559b142.jpg">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/123307846-426ddd00-d523-11eb-9af8-233ea4838198.jpg">
 </p> 
 
