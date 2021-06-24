@@ -3,11 +3,11 @@
 <h4 align="left">In this project, to detect whether a person is wearing a mask or no mask. In case, a person is not wearing a mask system will give an alert sound with text as well as it will show the confidence value of the prediction in live stream.</h4>
 
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/74568334/123329616-4b6ba800-d53d-11eb-98f7-8006730c863c.jpg">
+  <img width="500" src="https://user-images.githubusercontent.com/74568334/123329616-4b6ba800-d53d-11eb-98f7-8006730c863c.jpg">
 </p> 
 
 
-<h3 align="center"> <span style="color:green">Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts like faster-rcnn in order to detect face masks in real-time video streams.</span></h3>
+<h2 align="center"> <span style="color:green">Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts like faster-rcnn in order to detect face masks in real-time video streams.</span></h2>
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/74568334/123328085-7228df00-d53b-11eb-9bc0-0700343af177.gif">
