@@ -10,8 +10,8 @@
 <h2 align="center"> <span style="color:green">Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts like faster-rcnn in order to detect face masks in real-time video streams.</span></h2>
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/74568334/123328085-7228df00-d53b-11eb-9bc0-0700343af177.gif">
-  <img width="450" src="https://user-images.githubusercontent.com/74568334/123328490-e9f70980-d53b-11eb-8980-d0e0e2ab694f.gif">
+  <img width="450" src="https://user-images.githubusercontent.com/74568334/123328085-7228df00-d53b-11eb-9bc0-0700343af177.gif">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/123328490-e9f70980-d53b-11eb-8980-d0e0e2ab694f.gif">
   
 </p> 
 
@@ -140,7 +140,7 @@ python mask_detection_image.py
 #### Testing-3
 
 <p align="left">
-  <img width="500" src="https://user-images.githubusercontent.com/74568334/123307848-43067380-d523-11eb-8978-a8217559b142.jpg">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/123307846-426ddd00-d523-11eb-9af8-233ea4838198.jpg">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/123307848-43067380-d523-11eb-8978-a8217559b142.jpg">
+  <img width="350" src="https://user-images.githubusercontent.com/74568334/123307846-426ddd00-d523-11eb-9af8-233ea4838198.jpg">
 </p> 
 
