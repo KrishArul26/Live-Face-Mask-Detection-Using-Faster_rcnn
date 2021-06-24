@@ -24,7 +24,7 @@ This project has done up to 50000 epochs with error 0.08 values.Futher, 2200 ima
 ### 🔑 Prerequisites
 * All the dependencies and required libraries are included in the file [requirements.txt](https://github.com/KrishArul26/Live-Face-Mask-Detection-Using-Faster_rcnn/blob/main/requirements.txt)
 
-### 🚀 Installation
+### 🚀 Installation Live Mak Detection
 
 1. Clone the repo
 
