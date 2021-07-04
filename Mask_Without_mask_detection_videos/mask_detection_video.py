@@ -71,16 +71,12 @@ num_detections = detection_graph.get_tensor_by_name('num_detections:0')
 
 # Initialize webcam feed
 video = cv2.VideoCapture(0)
-#ret = video.set(1, 1920)
-
-ret = video.set(1, 1080)
-
 
 while True:
 
     # Acquire frame and expand frame dimensions to have shape: [1, None, None, 3]
     # single-column array, where each item in the column has the pixel RGB value
-    ret, frame = video.read()
+    _, frame = video.read()
     frame = cv2.resize(frame, (900, 900), interpolation=cv2.INTER_AREA)
 
     frame_expanded = np.expand_dims(frame, axis=0)
