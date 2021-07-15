@@ -1,6 +1,6 @@
 <h2 align="center"> Live-Face-Mask-Detection-Using-Faster_rcnn</h2>
 
-<h4 align="left">In this project, to detect whether a person is wearing a mask or no mask. In case, a person is not wearing a mask system will give an alert sound with text as well as it will show the confidence value of the prediction in live stream.</h4>
+<h4 align="left">Due to the COVID-19 regulation, people have to wear masks to protect themselves. Also, you need to create a system to find out if a person is wearing a mask or not. Also, this system should give a warning or sound when people are not wearing masks. So, I created the model with the help of Fast-R-CNN.</h4>
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/74568334/123329616-4b6ba800-d53d-11eb-98f7-8006730c863c.jpg">
