@@ -16,12 +16,6 @@
 5.  **Fast R-CNN is more accurate than R-CNN**.
 6.  The general architecture of Fast R-CNN is shown above. The model consists of a single-stage, compared to the 3 stages in R-CNN. It just accepts an image as an input and         returns the class probabilities and bounding boxes of the detected objects..</p>
 
-<p style= 'text-align: justify;'> Due to the COVID-19 regulation, people have to wear masks to protect themselves. Also, you need to create a system to find out if a person is wearing a mask or not. Also, this system should give a warning or sound when people are not wearing masks. So, I created the model with the help of Fast-R-CNN.</p>
-
-
-
-
-
 
 <h3 align="left"> Problem Statment</h3>
 
