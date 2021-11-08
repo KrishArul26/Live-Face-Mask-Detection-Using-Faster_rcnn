@@ -6,14 +6,15 @@
 
 <h3 align="left"> Fast R-CNN Quick Overview </h3>
 
-<p style= 'text-align: justify;'> Fast R-CNN is an object detector that was developed solely by Ross Girshick, a Facebook AI researcher and a former Microsoft Researcher. Fast R-CNN overcomes several issues in R-CNN. As its name suggests, one advantage of the Fast R-CNN over R-CNN is its speed. Here is a summary of the main contributions in 
+<p style= 'text-align: justify;'> **Fast R-CNN** is an object detector that was developed solely by Ross Girshick, a Facebook AI researcher and a former Microsoft Researcher. Fast R-CNN overcomes several issues in R-CNN. As its name suggests, one advantage of the Fast R-CNN over R-CNN is its speed. Here is a summary of the main contributions in 
   
- 1. Proposed a new layer called ROI Pooling that extracts equal-length feature vectors from all proposals (i.e. ROIs) in the same image.
-    Compared to R-CNN, which has multiple stages (region proposal generation, feature extraction, and classification using SVM), Faster R-CNN builds a network that has only a       single stage.
-2.  Faster R-CNN shares computations (i.e. convolutional layer calculations) across all proposals (i.e. ROIs) rather than doing the calculations for each proposal independently. 3.  This is done by using the new ROI Pooling layer, which makes Fast R-CNN faster than R-CNN.
-4.  Fast R-CNN does not cache the extracted features and thus does not need so much disk storage compared to R-CNN, which needs hundreds of gigabytes.
-5.  Fast R-CNN is more accurate than R-CNN.
-6.  The general architecture of Fast R-CNN is shown below. The model consists of a single-stage, compared to the 3 stages in R-CNN. It just accepts an image as an input and         returns the class probabilities and bounding boxes of the detected objects..</p>
+ 1. Proposed a new layer called **ROI Pooling** that extracts equal-length feature vectors from all proposals (i.e. ROIs) in the same image.
+    Compared to **R-CNN**, which has multiple stages (region proposal generation, feature extraction, and classification using SVM), Faster R-CNN builds a network that has only     a single stage.
+2.  **Faster R-CNN** shares computations (i.e. convolutional layer calculations) across all proposals (i.e. ROIs) rather than doing the calculations for each proposal                 independently. #
+3.  This is done by using the new **ROI Pooling layer**, which makes **Fast R-CNN faster than R-CNN**.
+4.  **Fast R-CNN** does not cache the extracted features and thus does not need so much disk storage compared to **R-CNN**, which needs hundreds of gigabytes.
+5.  **Fast R-CNN is more accurate than R-CNN**.
+6.  The general architecture of Fast R-CNN is shown above. The model consists of a single-stage, compared to the 3 stages in R-CNN. It just accepts an image as an input and         returns the class probabilities and bounding boxes of the detected objects..</p>
 
 <p style= 'text-align: justify;'> Due to the COVID-19 regulation, people have to wear masks to protect themselves. Also, you need to create a system to find out if a person is wearing a mask or not. Also, this system should give a warning or sound when people are not wearing masks. So, I created the model with the help of Fast-R-CNN.</p>
 
