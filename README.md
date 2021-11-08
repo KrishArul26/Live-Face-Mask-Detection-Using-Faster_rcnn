@@ -1,13 +1,21 @@
 <h2 align="center"> Live-Face-Mask-Detection-Using-Faster_rcnn</h2>
 
-<h4 align="left">Due to the COVID-19 regulation, people have to wear masks to protect themselves. Also, you need to create a system to find out if a person is wearing a mask or not. Also, this system should give a warning or sound when people are not wearing masks. So, I created the model with the help of Fast-R-CNN.</h4>
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/74568334/140817632-aa63c056-07be-4a14-9620-a34258deab31.png">
+</p> 
+
+
+<h3 align="left"> Problem Statment</h3>
+
+<p style= 'text-align: justify;'> Due to the COVID-19 regulation, people have to wear masks to protect themselves. Also, you need to create a system to find out if a person is wearing a mask or not. Also, this system should give a warning or sound when people are not wearing masks. So, I created the model with the help of Fast-R-CNN.</p>
+
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/74568334/123329616-4b6ba800-d53d-11eb-98f7-8006730c863c.jpg">
 </p> 
 
 
-<h2 align="center"> <span style="color:green">Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts like faster-rcnn in order to detect face masks in real-time video streams.</span></h2>
+<h4 align="center"> <span style="color:green">Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts like faster-rcnn in order to detect face masks in real-time video streams.</span></h4>
 
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/123328085-7228df00-d53b-11eb-9bc0-0700343af177.gif">
