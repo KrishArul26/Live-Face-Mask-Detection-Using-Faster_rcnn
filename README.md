@@ -7,6 +7,7 @@
 <h3 align="left"> Fast R-CNN Quick Overview </h3>
 
 <p style= 'text-align: justify;'> Fast R-CNN is an object detector that was developed solely by Ross Girshick, a Facebook AI researcher and a former Microsoft Researcher. Fast R-CNN overcomes several issues in R-CNN. As its name suggests, one advantage of the Fast R-CNN over R-CNN is its speed. Here is a summary of the main contributions in 
+  
  1. Proposed a new layer called ROI Pooling that extracts equal-length feature vectors from all proposals (i.e. ROIs) in the same image.
     Compared to R-CNN, which has multiple stages (region proposal generation, feature extraction, and classification using SVM), Faster R-CNN builds a network that has only a       single stage.
 2.  Faster R-CNN shares computations (i.e. convolutional layer calculations) across all proposals (i.e. ROIs) rather than doing the calculations for each proposal independently. 3.  This is done by using the new ROI Pooling layer, which makes Fast R-CNN faster than R-CNN.
